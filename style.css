@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #foodOptions {
+    margin-top: 20px;
+  }
+  
+  #foodDisplay {
+    margin-top: 50px;
+    display: none;
+  }
+  
+  #foodImage {
+    max-width: 100%;
+    max-height: 300px;
+  }
+  
+  #orderNumber {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
